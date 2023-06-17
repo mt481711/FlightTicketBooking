@@ -1,7 +1,7 @@
 # FlightTicketBooking
 # Project Title
 1.	Flight Ticket Booking
-Php based Flight Ticket Booking site. Can have two types of users.
+Php based site. Can have two types of users.
 Type of Users
 a.	User
 b.	Admin
