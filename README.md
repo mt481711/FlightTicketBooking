@@ -1,4 +1,4 @@
-# FlightTicketBooking
+# FlightTicketBooking(https://6360-203-145-142-86.ngrok-free.app/onlineflight/OnlineFlightBooking-PHP/index.php)
 # Project Title
 1.	Flight Ticket Booking
 Php based site. Can have two types of users.
@@ -43,7 +43,7 @@ Admin Password - admin
 To run on your Pc you need to install XAMP and store all the files and folders in htdocs folder . And you can change the database connectivity detail under Helpers->init_conn_db.php file according to your needs.
 
 
-To run directly use link - https://789f-2409-4055-4e0e-87d1-fcec-552b-6a8c-2d36.ngrok-free.app/onlineflight/OnlineFlightBooking-PHP/index.php
+To run directly use link -https://6360-203-145-142-86.ngrok-free.app/onlineflight/OnlineFlightBooking-PHP/index.php
 
 If server is ever down .As i am using my personal device as server.
 You are advice to wait for some time or you can ping me on 
