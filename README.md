@@ -1,18 +1,24 @@
 # FlightTicketBooking
 # Project Title
 1.	Flight Ticket Booking
-Create a web application for flight ticket booking. Use any tech stack for the backend and db. A basic UI made outta HTML and CSS is expected. Submissions with a  plain console based CRUD app won't be entertained.
+Php based Flight Ticket Booking site. Can have two types of users.
 Type of Users
 a.	User
 b.	Admin
-		User Use Cases
+
+
+
+User Use Cases
 ●	Login
 ●	Sign up (with apt data validations)
 ●	Searching for flights based on date and time
 ●	Booking tickets on a flight based on availability (assuming the default seat count is 60)
 ●	My Flights -> to list out all the bookings made by that user
 ●	Logout
-		Admin Use Cases
+		
+  
+  
+  Admin Use Cases
 ●	Login (Seperate login for Admin)
 ●	Add Flights
 ●	Remove flights
@@ -28,7 +34,7 @@ Admin Password - admin
 
 ## User mannual
 
-To run on your Pc you need to install XAMP and store all the files and folders in htdocs folder . And you can change the connectivity database connectivity detail under Helpers->init_conn_db.php file.
+To run on your Pc you need to install XAMP and store all the files and folders in htdocs folder . And you can change the database connectivity detail under Helpers->init_conn_db.php file according to your needs.
 
 
 To run directly use link - https://789f-2409-4055-4e0e-87d1-fcec-552b-6a8c-2d36.ngrok-free.app/onlineflight/OnlineFlightBooking-PHP/index.php
