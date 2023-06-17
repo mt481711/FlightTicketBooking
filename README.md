@@ -34,7 +34,7 @@ To run on your Pc you need to install XAMP and store all the files and folders i
 To run directly use link - https://789f-2409-4055-4e0e-87d1-fcec-552b-6a8c-2d36.ngrok-free.app/onlineflight/OnlineFlightBooking-PHP/index.php
 
 If server is ever down .As i am using my personal device as server.
-You are advice to wait for some time of you can ping me on 
+You are advice to wait for some time or you can ping me on 
 email - mt481711@gmail.com
 contact - 9816287558
 Proper working is promised as soon as possible .
