@@ -2,6 +2,7 @@
 # Project Title
 1.	Flight Ticket Booking
 Php based site. Can have two types of users.
+
 Type of Users
 
 a.	User
@@ -11,6 +12,7 @@ b.	Admin
 
 
 User Use Cases
+
 ●	Login
 ●	Sign up (with apt data validations)
 ●	Searching for flights based on date and time
@@ -21,6 +23,7 @@ User Use Cases
   
   
   Admin Use Cases
+  
 ●	Login (Seperate login for Admin)
 ●	Add Flights
 ●	Remove flights
@@ -32,6 +35,7 @@ User Use Cases
 ## Admin Login Detail
 
 Admin username - admin
+
 Admin Password - admin
 
 ## User mannual
