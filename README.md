@@ -1,9 +1,10 @@
 # FlightTicketBooking(https://ce0b-112-196-7-178.ngrok-free.app/onlineflight/OnlineFlightBooking-PHP/index.php)
 # Project Title
+
 Flight Ticket Booking
 Php based site. Can have two types of users.
 
-Type of Users
+## Type of Users
 
 a.	User
 
@@ -11,7 +12,7 @@ b.	Admin
 
 
 
-User Use Cases
+## User Use Cases
 
 ●	Login
 
@@ -27,11 +28,14 @@ User Use Cases
 		
   
   
-  Admin Use Cases
+  ## Admin Use Cases
   
 ●	Login (Seperate login for Admin)
+
 ●	Add Flights
+
 ●	Remove flights
+
 ●	View all the booking based on flight number 
 
 
