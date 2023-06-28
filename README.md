@@ -53,6 +53,6 @@ Proper working is promised as soon as possible .
 
 
 While booking a flight it is preferd to book flight between date 17/06/23 ->20/06/23
-else admin can add one and then try to book it 
+else admin can add flight and then try to book it 
 
 
