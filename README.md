@@ -1,6 +1,6 @@
 # FlightTicketBooking(https://ce0b-112-196-7-178.ngrok-free.app/onlineflight/OnlineFlightBooking-PHP/index.php)
 # Project Title
-1.	Flight Ticket Booking
+Flight Ticket Booking
 Php based site. Can have two types of users.
 
 Type of Users
@@ -54,5 +54,10 @@ Proper working is promised as soon as possible .
 
 While booking a flight it is preferd to book flight between date 17/06/23 ->20/06/23
 else admin can add flight and then try to book it 
+
+## Output Images
+![WhatsApp Image 2023-06-28 at 1 06 55 PM](https://github.com/mt481711/FlightTicketBooking/assets/85572861/6f04b9c0-f59b-40b0-a1a3-712cdff7a3b7)
+
+
 
 
