@@ -14,10 +14,15 @@ b.	Admin
 User Use Cases
 
 ●	Login
+
 ●	Sign up (with apt data validations)
+
 ●	Searching for flights based on date and time
+
 ●	Booking tickets on a flight based on availability (assuming the default seat count is 60)
+
 ●	My Flights -> to list out all the bookings made by that user
+
 ●	Logout
 		
   
